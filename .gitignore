@@ -1,0 +1,31 @@
+# =========================
+# Java & Spring Boot
+# =========================
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+.mvn/
+
+# =========================
+# React & Node.js (Frontend)
+# =========================
+complaint-frontend/node_modules/
+complaint-frontend/build/
+complaint-frontend/dist/
+complaint-frontend/.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# =========================
+# IDEs & OS Files
+# =========================
+.idea/
+.vscode/
+*.iml
+*.iws
+.DS_Store
+Thumbs.db
